@@ -14,4 +14,6 @@ Some more text
 
 ## How to contribute
 
+Please fork then issue pull request for review
+
 ##Copyright Added
