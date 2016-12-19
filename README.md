@@ -13,3 +13,5 @@ Some more text
 ## Deployment
 
 ## How to contribute
+
+##Copyright Added
