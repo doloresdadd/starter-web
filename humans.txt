@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Bethanie -- <role> -- <twitter>
 
 # THANKS
 
