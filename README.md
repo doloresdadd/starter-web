@@ -15,7 +15,7 @@ Some more text
 
 ## How to contribute
 
-Please fork then issue pull request for review
+Please fork then issue pull request for review Theis has changes
 
 ##Copyright Added
 
